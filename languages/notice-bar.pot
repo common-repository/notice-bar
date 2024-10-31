@@ -1,0 +1,893 @@
+# Copyright (C) 2024 WEN Solutions
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Notice Bar 3.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/notice-bar\n"
+"POT-Creation-Date: 2024-01-16 06:47:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:25
+#: inc/backend/sidebar.php:12
+msgid "Help?"
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:32
+#: inc/backend/sidebar.php:21
+msgid "Reviews"
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:46
+#: inc/backend/sidebar.php:6
+msgid "Click Below for our full Documentation about Notice Bar."
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:47
+#: inc/backend/sidebar.php:7
+msgid "Get Documentation Here"
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:59
+#: inc/backend/sidebar.php:15
+msgid "If you need further assistance, Please feel free to visit our support team."
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:60
+#: inc/backend/sidebar.php:16
+msgid "Get Support Here"
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:75
+#: inc/backend/sidebar.php:29
+msgid ""
+"Very easy to customize and use plugin. If developer put a preview option, "
+"in-build CSS support and add more buttons to click - it will be even "
+"better. Thanks!"
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:76
+#: inc/backend/sidebar.php:30
+msgid "f4tal1st"
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:87
+#: inc/backend/sidebar.php:41
+msgid ""
+"This is a great little tool! Nothing fancy - no horizontal scrolling, "
+"sidebar widgets or anything else like that.\r\n"
+"\t\t\t\tPerfect for just your basic site-wide, dismissable notice. All "
+"elements have CSS classes that you can style, so it's a breeze to customize "
+"the look.\r\n"
+"\t\t\t\tIf you have a fixed header area (like with the Divi theme), you "
+"will want to adjust the z-index of the announcement container so that it "
+"will sit on top of the header area.\r\n"
+"\t\t\t\tNice work and kudos for a job well done. :)"
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:91
+#: inc/backend/sidebar.php:45
+msgid "Mizagorn"
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:94
+#: inc/backend/sidebar.php:48
+msgid "Please fill free to leave us a review, if you found this plugin helpful."
+msgstr ""
+
+#: inc/backend/class-notice-bar-admin-sidebar-banners.php:95
+#: inc/backend/sidebar.php:49
+msgid "Leave a Review"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:25
+msgid "Add New Notice Bar"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:26
+msgid "New Notice Bar"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:27
+msgid "Edit Notice Bar"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:28
+msgid "View Notice Bar"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:29
+msgid "All Notice Bars"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:30
+msgid "Search Notice Bars"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:31
+msgid "Parent Notice Bars:"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:32
+msgid "No notice bars found."
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:33
+msgid "No notice bars found in Trash."
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:38
+#: inc/class-notice-bar-subscribers.php:40
+msgid "Description."
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:63
+#: inc/backend/views/settings.php:23 notice-bar.php:169
+msgid "Settings"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:85
+msgid "Notice Configurations"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:106
+#: inc/backend/views/notice-config.php:6
+msgid "Notice Types"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:112
+#: inc/backend/views/sections-config.php:2
+msgid "Sections"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:117
+#: inc/backend/views/display-config.php:12
+msgid "Display"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:123
+#: inc/backend/views/visibility-config.php:30
+msgid "Visibility"
+msgstr ""
+
+#: inc/backend/sidebar.php:3
+msgid "Documentation"
+msgstr ""
+
+#: inc/backend/views/display-config.php:14
+msgid "Notice Bar Position"
+msgstr ""
+
+#: inc/backend/views/display-config.php:24
+msgid "Top Absolute"
+msgstr ""
+
+#: inc/backend/views/display-config.php:25
+msgid "Top Fixed"
+msgstr ""
+
+#: inc/backend/views/display-config.php:26
+msgid "Bottom"
+msgstr ""
+
+#: inc/backend/views/display-config.php:31
+msgid "Close Action"
+msgstr ""
+
+#: inc/backend/views/display-config.php:35
+msgid "Disable"
+msgstr ""
+
+#: inc/backend/views/display-config.php:36
+msgid "Close Button"
+msgstr ""
+
+#: inc/backend/views/display-config.php:37
+msgid "Toggle Button"
+msgstr ""
+
+#: inc/backend/views/display-config.php:48
+msgid ""
+"Enter the time in hour to set the cookie expire time. It works only on "
+"cross button."
+msgstr ""
+
+#: inc/backend/views/display-config.php:53
+#: inc/backend/views/sections-config.php:104
+msgid "Background Color"
+msgstr ""
+
+#: inc/backend/views/display-config.php:66
+msgid "Font Color"
+msgstr ""
+
+#: inc/backend/views/display-config.php:80
+msgid "Notice Bar Font"
+msgstr ""
+
+#: inc/backend/views/display-config.php:83
+msgid "Default"
+msgstr ""
+
+#: inc/backend/views/display-config.php:98
+msgid "Anchor Link Color"
+msgstr ""
+
+#: inc/backend/views/display-config.php:101
+msgid ""
+"Please choose the color of the link. It will also work as color for News "
+"Ticker. Leave blank if you want to assign active theme's default color."
+msgstr ""
+
+#: inc/backend/views/display-config.php:105
+msgid "Anchor Link Hover Color"
+msgstr ""
+
+#: inc/backend/views/display-config.php:108
+msgid ""
+"Please choose the color of the link on hover. It will also work as hover "
+"color for News Ticker. Leave blank if you want to assign active theme's "
+"default color."
+msgstr ""
+
+#: inc/backend/views/display-config.php:112
+msgid "Margin from Bottom or Top"
+msgstr ""
+
+#: inc/backend/views/display-config.php:115
+msgid ""
+"Please enter the margin in px if you require to shift the notice bar from "
+"top or bottom. Default is 0px."
+msgstr ""
+
+#: inc/backend/views/display-config.php:119
+msgid "Disable For Mobile"
+msgstr ""
+
+#: inc/backend/views/display-config.php:124
+msgid "Check if you want to disable notice bar for mobile devices"
+msgstr ""
+
+#: inc/backend/views/display-config.php:130
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/backend/views/display-config.php:140
+msgid "Add custom css codes here to overwrite plugin's css"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:13
+msgid "Percent"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:14
+msgid "Pixels"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:15
+msgid "Em"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:30
+msgid "Plain text"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:31
+#: inc/notice-types/class-notice-bar-slider.php:16
+msgid "Slider"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:32
+#: inc/notice-types/class-notice-bar-news-ticker.php:15
+msgid "News Ticker"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:33
+msgid "Subscribe Form"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:34
+#: inc/notice-types/class-notice-bar-cta.php:31
+msgid "Call To Action"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:35
+#: inc/notice-types/class-notice-bar-shortcodes.php:16
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:36
+#: inc/notice-types/class-notice-bar-tweets.php:16
+msgid "Twitter Tweets"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:37
+#: inc/notice-types/class-notice-bar-social-icons.php:16
+#: inc/notice-types/class-notice-bar-social-icons.php:40
+msgid "Social Icons"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:44
+msgid ""
+"Notice bar is divided into 3 sections. Please chooose the below sections "
+"according to the requirement.  "
+msgstr ""
+
+#: inc/backend/views/sections-config.php:44
+msgid "Learn more."
+msgstr ""
+
+#: inc/backend/views/sections-config.php:68
+msgid "Type"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:70
+msgid "Please select..."
+msgstr ""
+
+#: inc/backend/views/sections-config.php:83
+msgid "Width"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:99
+msgid "Please enter the section-1 size and choose the width unit."
+msgstr ""
+
+#: inc/backend/views/sections-config.php:111
+msgid "Enable"
+msgstr ""
+
+#: inc/backend/views/sections-config.php:125
+msgid "Disable on mobile"
+msgstr ""
+
+#: inc/backend/views/settings.php:5
+msgid "Notice Bar Settings"
+msgstr ""
+
+#: inc/backend/views/settings.php:9
+msgid "Settings saved."
+msgstr ""
+
+#: inc/backend/views/settings.php:9
+msgid "Default settings restored successfully."
+msgstr ""
+
+#: inc/backend/views/settings.php:12
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/backend/views/settings.php:26
+msgid "Enable Debug Mode"
+msgstr ""
+
+#: inc/backend/views/settings.php:34
+msgid "Check if you want to enable debug mode in frontend."
+msgstr ""
+
+#: inc/backend/views/settings.php:35
+msgid ""
+"Enabling debug mode will use uncompressed css and js files in frontend "
+"which can be used to debug the css and js conflicts."
+msgstr ""
+
+#: inc/backend/views/settings.php:45
+msgid "Save Changes"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:32
+msgid "Enable Notice"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:40
+msgid ""
+"Check if you want to enable notice in frontend. Please choose the display "
+"options for notice bar below."
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:45
+msgid "Display After"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:55
+msgid ""
+"Please enter the number of milliseconds the notice bar will be displayed "
+"after the page loads."
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:60
+msgid "Hide After"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:70
+msgid ""
+"Please enter the number of milliseconds the notice bar will be hidden after "
+"the page loads."
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:75
+msgid "Notice Display Date/Time"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:95
+msgid ""
+"Please enter the date and time for the notice. Notice will be displayed "
+"after the choosen date-time."
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:101
+msgid "Notice Hide Date/Time"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:120
+msgid ""
+"Please enter the date and time for the notice. Notice will be displayed "
+"until the choosen date-time."
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:126
+msgid "Enable Notice Routine"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:159
+msgid "From"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:196
+msgid "From day "
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:202
+msgid " to day "
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:235
+msgid "Notice Display Control"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:241
+msgid "Entire Site"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:247
+msgid "Search Page"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:252
+msgid "404 Page"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:257
+msgid "Archives"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:262
+msgid "Front Page"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:299
+msgid "Blog Page"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:305
+msgid "Custom Pages"
+msgstr ""
+
+#: inc/backend/views/visibility-config.php:321
+msgid "Please choose the conditions for the notice-bar to display it."
+msgstr ""
+
+#: inc/class-notice-bar-settings.php:43 inc/class-notice-bar-settings.php:46
+#: inc/class-notice-bar-settings.php:53 inc/cores/activation.php:11
+#: inc/cores/activation.php:29 inc/cores/activation.php:31
+#: inc/cores/activation.php:38 inc/notice-bar-functions.php:33
+#: inc/notice-bar-functions.php:53
+msgid ""
+"Notice bar for all your custom notifications for your site visitors. Tweak "
+"them as you like using flexible options."
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:27
+msgid "Add New Subscriber"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:28
+msgid "New Subscriber"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:29
+msgid "Edit Subscriber"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:30
+msgid "View Subscriber"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:31
+msgid "All Subscribers"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:32
+msgid "Search Subscribers"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:33
+msgid "Parent Subscribers:"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:34
+msgid "No subscribers found."
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:35
+msgid "No subscribers found in Trash."
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:68
+msgid "Subscriber Info"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:99
+msgid "Subscriber Email:"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:172
+msgid "Please enter valid email."
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:189
+msgid "Email aready on subscription list."
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:198
+msgid "There was error in subscription."
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:233
+msgid "You have successfully subscribed newsletter."
+msgstr ""
+
+#: inc/cores/activation.php:13
+msgid "Button"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-cta.php:17
+msgid "Call to Action"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-cta.php:33
+msgid "CTA Button Text: "
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-cta.php:34
+msgid "CTA Button Link: "
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-cta.php:35
+msgid "CTA Text: "
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-cta.php:35
+msgid "Please make call to action description short..."
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-nb-subscribe.php:16
+msgid "NB Subscribe Form"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-nb-subscribe.php:33
+msgid "Admin Email"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:32
+msgid "Ticker Label"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:43
+msgid "Latest News"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:44
+msgid ""
+"Please enter the ticker label. Leave blank if you don't want to display "
+"ticker label."
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:48
+msgid "Ticker Label Background"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:51
+msgid ""
+"Please choose the background color of the ticker label. Leave blank if you "
+"want to assign the same background color of the section."
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:55
+msgid "Ticker Items"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:84
+msgid "Add New Item"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:86
+#: inc/notice-types/class-notice-bar-slider.php:87
+msgid "\"a\" tag allowed."
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:88
+msgid "Please add the ticker text which will fit in the width of the notice bar."
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:92
+msgid "Ticker Direction"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:98
+msgid "Left to right"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:99
+msgid "Right to left"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:104
+msgid "Ticker Speed"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:110
+msgid "Please enter the reveal speed of ticker. Default value is 0.10 "
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:114
+msgid "Ticker Pause Duration"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-news-ticker.php:119
+msgid ""
+"Please enter the pause duration between each ticker item in milliseconds. "
+"Default value is 2000"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:15
+msgid "Plain Text"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:29
+msgid "Left Scroll"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:30
+msgid "Right Scroll"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:44
+msgid "Marquee"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:45
+msgid "Blink"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:62
+msgid "Notice Text"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:75
+msgid "Allowed HTML Tags are : a, button, em, br, strong"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:82
+#: inc/notice-types/class-notice-bar-slider.php:110
+msgid "Animation"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:89
+msgid "Check if you want to have animation on notice text."
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:96
+msgid "Animation Options"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:115
+msgid "Marquee Type"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:135
+msgid "Marquee Speed"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:137
+msgid "Please enter the marquee speed in milliseconds. Default speed is 90"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:141
+msgid "Blink Speed"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-plain-text.php:145
+msgid "Please enter the blink speed in milliseconds. Default speed is 1000"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-shortcodes.php:30
+msgid "Newsletter Form Shortcode"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-shortcodes.php:34
+msgid "You can put a newsletter form as well as contact form shortcode here."
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-slider.php:30
+msgid "Horizontal"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-slider.php:31
+msgid "Fade"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-slider.php:48
+msgid "Slides"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-slider.php:90
+msgid "Add New Slide"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-slider.php:94
+msgid "Auto Slide"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-slider.php:103
+msgid "Check if you want to auto start the slider"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-slider.php:135
+msgid "Show Controls"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-slider.php:146
+msgid "Check if you want to show slider controls"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-slider.php:151
+msgid "Slide Duration"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-slider.php:161
+msgid "Please enter the slide duration in milliseconds. Default duration is 1000"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-social-icons.php:31
+msgid "Social Icons Label"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-social-icons.php:35
+msgid "Follow Us"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-social-icons.php:36
+msgid ""
+"This Label will show just before social icons. Please leave blank if you "
+"don't want to display the label"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-social-icons.php:63
+msgid "URL"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-social-icons.php:70
+msgid "Icon Color"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-social-icons.php:76
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-social-icons.php:83
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-social-icons.php:91
+msgid "Icon Background Hover Color"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-tweets.php:37
+msgid "Twitter Configuration"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-tweets.php:39
+msgid "Username:"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-tweets.php:40
+msgid "Number of Tweets:"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-tweets.php:41
+msgid "Profile Image:"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-tweets.php:45
+msgid "Show"
+msgstr ""
+
+#: inc/notice-types/class-notice-bar-tweets.php:46
+msgid "Hide"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Notice Bar"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wensolutions.com/plugins/notice-bar/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A easy way to create notice bar in WordPress sites with multiple options."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WEN Solutions"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wensolutions.com"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:20
+msgctxt "post type general name"
+msgid "Notice Bars"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:22
+msgctxt "post type general name"
+msgid "Subscribers"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:21
+msgctxt "post type singular name"
+msgid "Notice Bar"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:23
+msgctxt "post type singular name"
+msgid "Subscriber"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:22
+msgctxt "admin menu"
+msgid "Notice Bar"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:24
+msgctxt "admin menu"
+msgid "Subscribers"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:23
+msgctxt "add new on admin bar"
+msgid "Notice Bar"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:25
+msgctxt "add new on admin bar"
+msgid "Subscriber"
+msgstr ""
+
+#: inc/backend/class-notice-bar-post-type.php:24
+msgctxt "notice"
+msgid "Add New"
+msgstr ""
+
+#: inc/class-notice-bar-subscribers.php:26
+msgctxt "subscriber"
+msgid "Add New"
+msgstr ""
